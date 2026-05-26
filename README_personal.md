@@ -58,5 +58,4 @@ Jag ville träna på hela arbetsflödet i ett penetrationstest: från att identi
 
 ## 👤 Om mig
 **Emil Walls**  
-IT-säkerhetsstudent – TUC Yrkeshögskola  
-LIA2-period: 12 jan – 1 maj 2026
+IT-säkerhetsspecialist
