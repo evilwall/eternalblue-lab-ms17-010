@@ -57,5 +57,5 @@ Jag ville träna på hela arbetsflödet i ett penetrationstest: från att identi
 - Att logghantering centralt är viktigt för att förhindra att en angripare kan dölja spår.  
 
 ## 👤 Om mig
-**Emil Walls**  
+**Emil Wall**  
 IT-säkerhetsspecialist
